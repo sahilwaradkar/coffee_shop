@@ -1,6 +1,18 @@
 # coffee_shop
 
-A new Flutter project.
+Flutter Coffee Shop App Task
+
+Goal: Build a Flutter app for a Coffee Shop with Firebase authentication and a user-friendly interface.
+
+Features:
+
+1. Splash Screen: Display the app's logo for 3 seconds.
+2. Onboarding Screen: 3 pages highlighting key app features with a "Get Started" button.
+3. Login Screen: User can log in with email and password via Firebase.
+4. Home Screen:
+    Search Bar: To find coffee products.
+    Coffee Cards: Show product image, name, price with "Add to Cart" and "Buy Now" buttons.
+    Filter Option: To filter coffee by categories.
 
 ## Getting Started
 
