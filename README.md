@@ -1,4 +1,4 @@
-# coffee_shop
+# Coffee Shop
 
 Flutter Coffee Shop App Task
 
